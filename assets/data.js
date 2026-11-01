@@ -575,7 +575,7 @@ window.HAPPYDAYS_WIKI = (function () {
 <p><strong>末期（）</strong></p>`
     },
     "zzx": {
-      title: "zzx",
+      title: "zzx列传",
       emoji: "📖",
       category: "people",
       excerpt: "主要事迹：把Alex带进服务器（详见神人堂）连续发展了...",
@@ -583,7 +583,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}],
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:09+08:00", "action": "update", "title": "zzx列传", "topic": "人物志"}],
       content: `<h2>主要事迹：</h2>
 <ol class="steps"><li>把Alex带进服务器 （详见神人堂）</li><li>连续发展了哈尔滨长达2.5月(截至26/9/27)</li><li>在日内瓦承建了朝鲜，日本大使馆</li></ol>
 <h2>人物简介</h2>

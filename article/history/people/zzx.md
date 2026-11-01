@@ -1,5 +1,5 @@
 ---
-title: "zzx"
+title: "zzx列传"
 description: "主要事迹：把Alex带进服务器（详见神人堂）连续发展了..."
 topic: "人物志"
 topic_id: "people"
@@ -12,7 +12,7 @@ source: "/wiki/#/doc/zzx"
 tags:
 ---
 
-# zzx
+# zzx列传
 
 ## 主要事迹：
 
