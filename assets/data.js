@@ -548,7 +548,7 @@ window.HAPPYDAYS_WIKI = (function () {
 <p><strong>末期（）</strong></p>`
     },
     "233-2233": {
-      title: "233&2233",
+      title: "233&2233本纪",
       emoji: "📖",
       category: "people",
       excerpt: "人物简介入服时间2233：2026年5月19日 233...",
@@ -556,7 +556,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [],
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:26:16+08:00", "action": "update", "title": "233&2233本纪", "topic": "人物志"}],
       content: `<h2>人物简介</h2>
 <p><strong>入服时间</strong></p>
 <p><strong>2233：2026年5月19日</strong></p>
