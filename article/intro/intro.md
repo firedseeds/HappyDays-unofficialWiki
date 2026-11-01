@@ -24,6 +24,6 @@ tags:
 
 服务器管理一览
 
-**腐竹：HAPPYAAAAA**
+**腐竹：HAPPYAAAA**
 
 **管理员：Crazytudou、Burnkey、smillfox、fish**
