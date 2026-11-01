@@ -830,7 +830,7 @@ window.HAPPYDAYS_WIKI = (function () {
 <p><del>剩下以后再补充</del></p>`
     },
     "fish-text3": {
-      title: "fish",
+      title: "fish世家",
       emoji: "🐟",
       category: "people",
       excerpt: "孙笑川一般的存在",
@@ -838,7 +838,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-28",
       reading: 5,
       tags: ["老资历", "活跃玩家", "大恶霸"],
-      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}],
+      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:07+08:00", "action": "update", "title": "fish世家", "topic": "人物志"}],
       content: `<p><strong>服务器老资历，人见人爱，花见花开，热心善良，助人为乐，和蔼可亲，宽容大度，<del>无恶不作，邪恶至极，阴险狡诈，逼良为娼（？，大恶霸，大军阀，止小儿夜啼，孙笑川在世，屁股烫开花，多看一眼就会爆炸</del></strong></p>`
     }
   };
