@@ -525,7 +525,7 @@ window.HAPPYDAYS_WIKI = (function () {
 </blockquote>`
     },
     "matopiraphai": {
-      title: "Matopiraphai",
+      title: "Matopiraphai本纪",
       emoji: "📖",
       category: "people",
       excerpt: "人物简介：入服时间：2026年8月8日担任职务：",
@@ -533,7 +533,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [],
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:26:26+08:00", "action": "update", "title": "Matopiraphai本纪", "topic": "人物志"}],
       content: `<h2>人物简介：</h2>
 <p><strong>入服时间：</strong></p>
 <p><strong>2026年8月8日</strong></p>

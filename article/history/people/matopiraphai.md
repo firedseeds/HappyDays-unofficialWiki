@@ -1,5 +1,5 @@
 ---
-title: "Matopiraphai"
+title: "Matopiraphai本纪"
 description: "人物简介：入服时间：2026年8月8日担任职务："
 topic: "人物志"
 topic_id: "people"
@@ -12,7 +12,7 @@ source: "/wiki/#/doc/matopiraphai"
 tags:
 ---
 
-# Matopiraphai
+# Matopiraphai本纪
 
 ## 人物简介：
 
