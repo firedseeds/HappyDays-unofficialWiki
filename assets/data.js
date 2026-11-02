@@ -377,7 +377,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-28",
       reading: 1,
       tags: ["教程", "赚钱"],
-      signatures: [{"author": "233", "at": "2026-10-25T21:22:00+08:00", "action": "update", "title": "彩票", "topic": "进阶教程"}, {"author": "JINFANBO", "at": "2026-11-02T20:57:56+08:00", "action": "update", "title": "彩票", "topic": "进阶教程"}],
+      signatures: [{"author": "233", "at": "2026-10-25T21:22:00+08:00", "action": "update", "title": "彩票", "topic": "进阶教程"}, {"author": "JINFANBO", "at": "2026-11-02T20:57:56+08:00", "action": "update", "title": "彩票", "topic": "进阶教程"}, {"author": "JINFANBO", "at": "2026-11-02T20:58:03+08:00", "action": "update", "title": "彩票", "topic": "进阶教程"}],
       content: `<blockquote>
 <p>彩票系统</p>
 </blockquote>
