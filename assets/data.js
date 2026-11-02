@@ -361,8 +361,8 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [],
-      content: `<ol class="steps"><li>钻石在南京收购价为50元/颗，但在上海港坐海洋光谱号去日本东京可卖100元/颗</li><li>买东西不一定全都要在南京买，记住以下小诀窍：</li></ol>
+      signatures: [{"author": "JINFANBO", "at": "2026-11-02T20:52:25+08:00", "action": "update", "title": "一些杂七杂八的赚钱野路子", "topic": "进阶教程"}],
+      content: `<ol class="steps"><li>钻石在南京收购价为50元/颗，但在上海港坐海洋光谱号去日本东京可卖100元/颗</li><li>买东西不一定全都要在南京/秦皇岛买，记住以下小诀窍：</li></ol>
 <p>a.武汉机铁站旁边的灯具店，比南京的便宜</p>
 <p>b.济南的木材商店卖的比南京便宜</p>
 <p>c.连云港机铁站旁边的HAPPY杂货铺和染料店，售价比南京便宜</p>
