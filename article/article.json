@@ -354,17 +354,17 @@
       "source": "/wiki/#/doc/233-2233"
     },
     {
-      "slug": "zzx",
-      "order": 36,
+      "slug": "jinfanbo",
+      "order": 20,
       "topic": "people",
-      "title": "zzx列传",
-      "description": "主要事迹：把Alex带进服务器（详见神人堂）连续发展了...",
-      "emoji": "📖",
-      "updated": "2026-10-25",
-      "readingTime": 1,
+      "title": "JINFANBO本纪",
+      "description": "JINFANBO本纪",
+      "emoji": "👑",
+      "updated": "2026-11-02",
+      "readingTime": 240,
       "tags": [],
-      "file": "history/people/zzx.md",
-      "source": "/wiki/#/doc/zzx"
+      "file": "history/people/jinfanbo.md",
+      "source": "/wiki/#/doc/jinfanbo"
     },
     {
       "slug": "rhodes-island",
@@ -557,17 +557,17 @@
       "source": "/wiki/#/doc/1"
     },
     {
-      "slug": "jinfanbo",
-      "order": 20,
+      "slug": "zzx",
+      "order": 36,
       "topic": "people",
-      "title": "JINFANBO本纪",
-      "description": "JINFANBO本纪",
-      "emoji": "👑",
-      "updated": "2026-11-02",
-      "readingTime": 240,
+      "title": "zzx列传",
+      "description": "主要事迹：把Alex带进服务器（详见神人堂）连续发展了...",
+      "emoji": "📖",
+      "updated": "2026-10-25",
+      "readingTime": 1,
       "tags": [],
-      "file": "history/people/jinfanbo.md",
-      "source": "/wiki/#/doc/jinfanbo"
+      "file": "history/people/zzx.md",
+      "source": "/wiki/#/doc/zzx"
     }
   ]
 }
