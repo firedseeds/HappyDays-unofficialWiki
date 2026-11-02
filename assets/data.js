@@ -13,7 +13,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "HappyDays 服务器与知识库概览。",
       parentId: null,
       order: 1,
-      docs: ["intro"]
+      docs: ["intro", "jinfanbo"]
     },
     {
       id: "beginner",
@@ -54,14 +54,6 @@ window.HAPPYDAYS_WIKI = (function () {
       parentId: "history",
       order: 1,
       docs: ["matopiraphai", "233-2233", "zzx", "fish-text3", "1"]
-    },
-    {
-      id: "1",
-      name: "1",
-      description: "1",
-      parentId: "people",
-      order: 1,
-      docs: []
     },
     {
       id: "nations",
@@ -855,11 +847,32 @@ window.HAPPYDAYS_WIKI = (function () {
       tags: [],
       signatures: [{"author": "苹果居士", "at": "2026-10-25T21:32:05+08:00", "action": "create", "title": "pingguojushi", "topic": "人物志"}, {"author": "苹果居士", "at": "2026-10-25T21:32:35+08:00", "action": "update", "title": "pingguojushi", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:47+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:50+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:27:11+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}],
       content: `<p>##介绍 上海金山镇长</p>`
+    },
+    "jinfanbo": {
+      title: "JINFANBO本纪",
+      emoji: "👑",
+      category: "intro",
+      excerpt: "JINFANBO本纪",
+      icon: "/icon.png",
+      updated: "2026-11-02",
+      reading: 240,
+      tags: [],
+      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}],
+      content: `<h2>人物简介：</h2>
+<p><strong>入服时间：</strong></p>
+<p><strong>2026年7月5日</strong></p>
+<p><strong>担任职务：</strong></p>
+<p><strong>前联合行省主席，现泛东北经济联盟宣传部部长 (</strong></p>
+<h2>人物评价</h2>
+<p><strong>原联合行省主席，开创了全服首个人口大国，开辟了东北荒地，为东北建设打下基业,真是及备殂没，事无巨细，JIN皆专之。於是外连FU，内平东南，立法施度，整理戎旅，工械技巧，物究其极，科教严明，赏罚必信，无恶不惩，无善不显，至於吏不容奸，人怀自厉，道不拾遗，强不侵弱，风化肃然也。——zzx</strong></p>
+<h2>人物履历</h2>
+<p>进服时建了一所地下农科院，结识中山，张家界，zzx，共同在长白山建了茶楼、酒馆、公寓、体育馆、游泳馆和长白山博物馆，后和xiaomu建立了联合行省（UP）,在不出二月内超过二十人加入，后因有人退出，从而在白山演讲，那也曾经是服务器中最热闹的时候</p>
+<p>往日兮.........不复回，曾日名震欧亚的白山皇帝，虽有没落之时，但其城亦是“关东第一山”之所在——zzx</p>`
     }
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "zzx", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "zzx", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1", "jinfanbo"
   ];
 
   return {

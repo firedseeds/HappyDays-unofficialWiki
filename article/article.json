@@ -8,9 +8,9 @@
     "language": "zh-CN",
     "domain": "114.55.99.2:8000"
   },
-  "topicCount": 10,
-  "articleCount": 34,
-  "lastUpdated": "2026-10-28",
+  "topicCount": 9,
+  "articleCount": 35,
+  "lastUpdated": "2026-11-02",
   "topics": [
     {
       "id": "intro",
@@ -19,7 +19,7 @@
       "order": 1,
       "description": "HappyDays 服务器与知识库概览。",
       "emoji": "🚇",
-      "articleCount": 1,
+      "articleCount": 2,
       "parentId": null
     },
     {
@@ -71,15 +71,6 @@
       "order": 1,
       "emoji": "👤",
       "articleCount": 5
-    },
-    {
-      "id": "1",
-      "name": "1",
-      "description": "1",
-      "directory": "history/people/1",
-      "parentId": "people",
-      "order": 1,
-      "articleCount": 0
     },
     {
       "id": "nations",
@@ -495,17 +486,21 @@
       "source": "/wiki/#/doc/gallery-2"
     },
     {
-      "slug": "1",
-      "order": 35,
+      "slug": "fish-text3",
+      "order": 31,
       "topic": "people",
-      "title": "pingguojushi世家",
-      "description": "棍木",
-      "emoji": "📄",
-      "updated": "2026-10-25",
+      "title": "fish世家",
+      "description": "孙笑川一般的存在",
+      "emoji": "🐟",
+      "updated": "2026-10-28",
       "readingTime": 5,
-      "tags": [],
-      "file": "history/people/1.md",
-      "source": "/wiki/#/doc/1"
+      "tags": [
+        "老资历",
+        "活跃玩家",
+        "大恶霸"
+      ],
+      "file": "history/people/fish-text3.md",
+      "source": "/wiki/#/doc/fish-text3"
     },
     {
       "slug": "alex",
@@ -549,21 +544,30 @@
       "source": "/wiki/#/doc/fish-text2"
     },
     {
-      "slug": "fish-text3",
-      "order": 31,
+      "slug": "1",
+      "order": 35,
       "topic": "people",
-      "title": "fish世家",
-      "description": "孙笑川一般的存在",
-      "emoji": "🐟",
-      "updated": "2026-10-28",
+      "title": "pingguojushi世家",
+      "description": "棍木",
+      "emoji": "📄",
+      "updated": "2026-10-25",
       "readingTime": 5,
-      "tags": [
-        "老资历",
-        "活跃玩家",
-        "大恶霸"
-      ],
-      "file": "history/people/fish-text3.md",
-      "source": "/wiki/#/doc/fish-text3"
+      "tags": [],
+      "file": "history/people/1.md",
+      "source": "/wiki/#/doc/1"
+    },
+    {
+      "slug": "jinfanbo",
+      "order": 36,
+      "topic": "intro",
+      "title": "JINFANBO本纪",
+      "description": "JINFANBO本纪",
+      "emoji": "👑",
+      "updated": "2026-11-02",
+      "readingTime": 240,
+      "tags": [],
+      "file": "intro/jinfanbo.md",
+      "source": "/wiki/#/doc/jinfanbo"
     }
   ]
 }
