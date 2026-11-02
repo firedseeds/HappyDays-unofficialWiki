@@ -53,7 +53,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器玩家与人物记录。",
       parentId: "history",
       order: 1,
-      docs: ["matopiraphai", "233-2233", "zzx", "fish-text3", "jinfanbo", "1"]
+      docs: ["matopiraphai", "233-2233", "zzx", "jinfanbo", "fish-text3", "1"]
     },
     {
       id: "nations",
@@ -780,17 +780,26 @@ window.HAPPYDAYS_WIKI = (function () {
       signatures: [],
       content: `<p><img src="assets/image/gallery-2/1791127683915-48391af4-0c07-4bb6-b1a3-b051fbaef2d9.png" alt="图片" loading="lazy" decoding="async"></p>`
     },
-    "fish-text3": {
-      title: "fish世家",
-      emoji: "🐟",
+    "jinfanbo": {
+      title: "JINFANBO本纪",
+      emoji: "👑",
       category: "people",
-      excerpt: "孙笑川一般的存在",
-      icon: "/article/icon/fish-text3.png",
-      updated: "2026-10-28",
-      reading: 5,
-      tags: ["老资历", "活跃玩家", "大恶霸"],
-      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:07+08:00", "action": "update", "title": "fish世家", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T21:13:57+08:00", "action": "update", "title": "fish世家", "topic": "people"}],
-      content: `<p><strong>服务器老资历，人见人爱，花见花开，热心善良，助人为乐，和蔼可亲，宽容大度，<del>无恶不作，邪恶至极，阴险狡诈，逼良为娼（？，大恶霸，大军阀，止小儿夜啼，孙笑川在世，屁股烫开花，多看一眼就会爆炸</del></strong></p>`
+      excerpt: "JINFANBO本纪",
+      icon: "/icon.png",
+      updated: "2026-11-02",
+      reading: 240,
+      tags: [],
+      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:56:55+08:00", "action": "move", "title": "JINFANBO本纪", "topic": "人物志", "fromTopic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:57:08+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:09+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}],
+      content: `<h2>人物简介：</h2>
+<p><strong>入服时间：</strong></p>
+<p><strong>2026年7月5日</strong></p>
+<p><strong>担任职务：</strong></p>
+<p><strong>前联合行省主席，现泛东北经济联盟宣传部部长 (</strong></p>
+<h2>人物评价</h2>
+<p><strong>原联合行省主席，开创了全服首个人口大国，开辟了东北荒地，为东北建设打下基业,真是及备殂没，事无巨细，JIN皆专之。於是外连FU，内平东南，立法施度，整理戎旅，工械技巧，物究其极，科教严明，赏罚必信，无恶不惩，无善不显，至於吏不容奸，人怀自厉，道不拾遗，强不侵弱，风化肃然也。——zzx</strong></p>
+<h2>人物履历</h2>
+<p>进服时建了一所地下农科院，结识中山，张家界，zzx，共同在长白山建了茶楼、酒馆、公寓、体育馆、游泳馆和长白山博物馆，后和xiaomu建立了联合行省（UP）,在不出二月内超过二十人加入，后因有人退出，从而在白山演讲，那也曾经是服务器中最热闹的时候</p>
+<p>往日兮.........不复回，曾日名震欧亚的白山皇帝，虽有没落之时，但其城亦是“关东第一山”之所在——zzx</p>`
     },
     "alex": {
       title: "Alex",
@@ -836,26 +845,17 @@ window.HAPPYDAYS_WIKI = (function () {
 <p>装上mod后第一次进游戏会有提示</p>
 <p><del>剩下以后再补充</del></p>`
     },
-    "jinfanbo": {
-      title: "JINFANBO本纪",
-      emoji: "👑",
+    "fish-text3": {
+      title: "fish世家",
+      emoji: "🐟",
       category: "people",
-      excerpt: "JINFANBO本纪",
-      icon: "/icon.png",
-      updated: "2026-11-02",
-      reading: 240,
-      tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:56:55+08:00", "action": "move", "title": "JINFANBO本纪", "topic": "人物志", "fromTopic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:57:08+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}],
-      content: `<h2>人物简介：</h2>
-<p><strong>入服时间：</strong></p>
-<p><strong>2026年7月5日</strong></p>
-<p><strong>担任职务：</strong></p>
-<p><strong>前联合行省主席，现泛东北经济联盟宣传部部长 (</strong></p>
-<h2>人物评价</h2>
-<p><strong>原联合行省主席，开创了全服首个人口大国，开辟了东北荒地，为东北建设打下基业,真是及备殂没，事无巨细，JIN皆专之。於是外连FU，内平东南，立法施度，整理戎旅，工械技巧，物究其极，科教严明，赏罚必信，无恶不惩，无善不显，至於吏不容奸，人怀自厉，道不拾遗，强不侵弱，风化肃然也。——zzx</strong></p>
-<h2>人物履历</h2>
-<p>进服时建了一所地下农科院，结识中山，张家界，zzx，共同在长白山建了茶楼、酒馆、公寓、体育馆、游泳馆和长白山博物馆，后和xiaomu建立了联合行省（UP）,在不出二月内超过二十人加入，后因有人退出，从而在白山演讲，那也曾经是服务器中最热闹的时候</p>
-<p>往日兮.........不复回，曾日名震欧亚的白山皇帝，虽有没落之时，但其城亦是“关东第一山”之所在——zzx</p>`
+      excerpt: "孙笑川一般的存在",
+      icon: "/article/icon/fish-text3.png",
+      updated: "2026-10-28",
+      reading: 5,
+      tags: ["老资历", "活跃玩家", "大恶霸"],
+      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:07+08:00", "action": "update", "title": "fish世家", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T21:13:57+08:00", "action": "update", "title": "fish世家", "topic": "people"}],
+      content: `<p><strong>服务器老资历，人见人爱，花见花开，热心善良，助人为乐，和蔼可亲，宽容大度，<del>无恶不作，邪恶至极，阴险狡诈，逼良为娼（？，大恶霸，大军阀，止小儿夜啼，孙笑川在世，屁股烫开花，多看一眼就会爆炸</del></strong></p>`
     },
     "1": {
       title: "pingguojushi世家",
@@ -872,7 +872,7 @@ window.HAPPYDAYS_WIKI = (function () {
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "zzx", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "jinfanbo", "1"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "zzx", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "jinfanbo", "alex", "666", "fish-text2", "fish-text3", "1"
   ];
 
   return {
