@@ -53,7 +53,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器玩家与人物记录。",
       parentId: "history",
       order: 1,
-      docs: ["matopiraphai", "233-2233", "jinfanbo", "fish-text3", "zzx", "1"]
+      docs: ["matopiraphai", "233-2233", "jinfanbo", "fish-text3", "1", "zzx"]
     },
     {
       id: "nations",
@@ -825,6 +825,18 @@ window.HAPPYDAYS_WIKI = (function () {
 <p>装上mod后第一次进游戏会有提示</p>
 <p><del>剩下以后再补充</del></p>`
     },
+    "1": {
+      title: "pingguojushi世家",
+      emoji: "📄",
+      category: "people",
+      excerpt: "棍木",
+      icon: "/icon.png",
+      updated: "2026-10-25",
+      reading: 5,
+      tags: [],
+      signatures: [{"author": "苹果居士", "at": "2026-10-25T21:32:05+08:00", "action": "create", "title": "pingguojushi", "topic": "人物志"}, {"author": "苹果居士", "at": "2026-10-25T21:32:35+08:00", "action": "update", "title": "pingguojushi", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:47+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:50+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:27:11+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}],
+      content: `<p>##介绍 上海金山镇长</p>`
+    },
     "zzx": {
       title: "zzx列传",
       emoji: "📖",
@@ -834,7 +846,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:09+08:00", "action": "update", "title": "zzx列传", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T23:57:17+08:00", "action": "update", "title": "zzx列传", "topic": "people"}],
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:09+08:00", "action": "update", "title": "zzx列传", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T23:57:17+08:00", "action": "update", "title": "zzx列传", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:18+08:00", "action": "update", "title": "zzx列传", "topic": "people"}],
       content: `<h2>主要事迹：</h2>
 <ol class="steps"><li>把Alex带进服务器 （详见神人堂）</li><li>连续发展了哈尔滨长达2.5月(截至26/9/27)</li><li>在日内瓦承建了朝鲜，日本大使馆</li></ol>
 <h2>人物简介</h2>
@@ -856,23 +868,11 @@ window.HAPPYDAYS_WIKI = (function () {
 <p><strong>于2026/10/18从FU叛逃至泛东北经济同盟</strong></p>
 <p><strong>巅峰（）</strong></p>
 <p><strong>末期（）</strong></p>`
-    },
-    "1": {
-      title: "pingguojushi世家",
-      emoji: "📄",
-      category: "people",
-      excerpt: "棍木",
-      icon: "/icon.png",
-      updated: "2026-10-25",
-      reading: 5,
-      tags: [],
-      signatures: [{"author": "苹果居士", "at": "2026-10-25T21:32:05+08:00", "action": "create", "title": "pingguojushi", "topic": "人物志"}, {"author": "苹果居士", "at": "2026-10-25T21:32:35+08:00", "action": "update", "title": "pingguojushi", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:47+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:50+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:27:11+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}],
-      content: `<p>##介绍 上海金山镇长</p>`
     }
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "zzx", "1"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1", "zzx"
   ];
 
   return {
