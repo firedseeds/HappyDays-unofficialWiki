@@ -878,7 +878,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-11-03",
       reading: 240,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-03T00:34:50+08:00", "action": "create", "title": "联合行省（UP）", "topic": "国家/城镇"}],
+      signatures: [{"author": "zzx", "at": "2026-11-03T00:34:50+08:00", "action": "create", "title": "联合行省（UP）", "topic": "国家/城镇"}, {"author": "zzx", "at": "2026-11-03T00:34:53+08:00", "action": "update", "title": "联合行省（UP）", "topic": "国家/城镇"}],
       content: `<p>此国家现已解散，目前前主席JINFANBO已加入泛东北经济联盟</p>
 <p><strong>此国家为JINFANBO在白山与xiaomu建立，各个下辖城市欣欣向荣，为原HAPPYDAYS第一大国</strong></p>
 <p>主席:JINFANBO</p>
