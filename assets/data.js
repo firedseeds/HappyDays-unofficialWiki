@@ -13,7 +13,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "HappyDays 服务器与知识库概览。",
       parentId: null,
       order: 1,
-      docs: ["intro", "jinfanbo"]
+      docs: ["intro"]
     },
     {
       id: "beginner",
@@ -53,7 +53,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器玩家与人物记录。",
       parentId: "history",
       order: 1,
-      docs: ["matopiraphai", "233-2233", "zzx", "fish-text3", "1"]
+      docs: ["matopiraphai", "233-2233", "zzx", "fish-text3", "1", "jinfanbo"]
     },
     {
       id: "nations",
@@ -851,13 +851,13 @@ window.HAPPYDAYS_WIKI = (function () {
     "jinfanbo": {
       title: "JINFANBO本纪",
       emoji: "👑",
-      category: "intro",
+      category: "people",
       excerpt: "JINFANBO本纪",
       icon: "/icon.png",
       updated: "2026-11-02",
       reading: 240,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}],
+      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:56:55+08:00", "action": "move", "title": "JINFANBO本纪", "topic": "人物志", "fromTopic": "简介"}],
       content: `<h2>人物简介：</h2>
 <p><strong>入服时间：</strong></p>
 <p><strong>2026年7月5日</strong></p>

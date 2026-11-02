@@ -19,7 +19,7 @@
       "order": 1,
       "description": "HappyDays 服务器与知识库概览。",
       "emoji": "🚇",
-      "articleCount": 2,
+      "articleCount": 1,
       "parentId": null
     },
     {
@@ -70,7 +70,7 @@
       "parentId": "history",
       "order": 1,
       "emoji": "👤",
-      "articleCount": 5
+      "articleCount": 6
     },
     {
       "id": "nations",
@@ -559,14 +559,14 @@
     {
       "slug": "jinfanbo",
       "order": 36,
-      "topic": "intro",
+      "topic": "people",
       "title": "JINFANBO本纪",
       "description": "JINFANBO本纪",
       "emoji": "👑",
       "updated": "2026-11-02",
       "readingTime": 240,
       "tags": [],
-      "file": "intro/jinfanbo.md",
+      "file": "history/people/jinfanbo.md",
       "source": "/wiki/#/doc/jinfanbo"
     }
   ]

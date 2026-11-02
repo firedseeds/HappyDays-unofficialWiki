@@ -672,6 +672,14 @@
         "action": "create",
         "title": "JINFANBO本纪",
         "topic": "简介"
+      },
+      {
+        "author": "zzx",
+        "at": "2026-11-02T23:56:55+08:00",
+        "action": "move",
+        "title": "JINFANBO本纪",
+        "topic": "人物志",
+        "fromTopic": "简介"
       }
     ]
   }

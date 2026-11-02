@@ -1,8 +1,8 @@
 ---
 title: "JINFANBO本纪"
 description: "JINFANBO本纪"
-topic: "简介"
-topic_id: "intro"
+topic: "人物志"
+topic_id: "people"
 updated: "2026-11-02"
 reading_time: 240
 emoji: "👑"
