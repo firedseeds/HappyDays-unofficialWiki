@@ -6,7 +6,7 @@ topic_id: "people"
 updated: "2026-10-28"
 reading_time: 5
 emoji: "🐟"
-order: 35
+order: 31
 slug: "fish-text3"
 source: "/wiki/#/doc/fish-text3"
 tags:

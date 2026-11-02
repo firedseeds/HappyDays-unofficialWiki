@@ -53,7 +53,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器玩家与人物记录。",
       parentId: "history",
       order: 1,
-      docs: ["matopiraphai", "233-2233", "jinfanbo", "zzx", "fish-text3", "1"]
+      docs: ["matopiraphai", "233-2233", "jinfanbo", "fish-text3", "zzx", "1"]
     },
     {
       id: "nations",
@@ -769,37 +769,17 @@ window.HAPPYDAYS_WIKI = (function () {
       signatures: [],
       content: `<p><img src="assets/image/gallery-2/1791127683915-48391af4-0c07-4bb6-b1a3-b051fbaef2d9.png" alt="图片" loading="lazy" decoding="async"></p>`
     },
-    "zzx": {
-      title: "zzx列传",
-      emoji: "📖",
+    "fish-text3": {
+      title: "fish世家",
+      emoji: "🐟",
       category: "people",
-      excerpt: "主要事迹：把Alex带进服务器（详见神人堂）连续发展了...",
-      icon: "/icon.png",
-      updated: "2026-10-25",
-      reading: 1,
-      tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:09+08:00", "action": "update", "title": "zzx列传", "topic": "人物志"}],
-      content: `<h2>主要事迹：</h2>
-<ol class="steps"><li>把Alex带进服务器 （详见神人堂）</li><li>连续发展了哈尔滨长达2.5月(截至26/9/27)</li><li>在日内瓦承建了朝鲜，日本大使馆</li></ol>
-<h2>人物简介</h2>
-<p><strong>入服时间</strong></p>
-<p><strong>2026年7月12日</strong></p>
-<p><strong>担任职务</strong></p>
-<p><strong>哈尔滨城设计师，振兴东北的领导先锋</strong></p>
-<p><strong>人物评价</strong></p>
-<h2>东北局局长，服务器最帅之人，想建建筑但是没钱？群里@zzx投资—— zzx</h2>
-<p><strong>日内瓦全天候战略合作伙伴，日内瓦中期80%建筑由zzx建设——Matopiraphai</strong></p>
-<p><strong>蟠桃快乐——233</strong></p>
-<h2>人物履历</h2>
-<p><strong>早期（2026.7.12~2026.8.12）</strong></p>
-<p><strong>在全服多地流窜，购买材料，修路，在7.13日把Alex带进服务器（详见神人堂）</strong></p>
-<p><strong> （2026.8.13~2026.9.25）</strong></p>
-<p><strong>在全服务器到处接手建筑订单，拉到大量金额投资，赚得盆满钵满，还开了自己的地下商城</strong></p>
-<p><strong>中期（2026.9.25~至今）</strong></p>
-<p><strong>于2026/10/7从DPRK叛逃至FU，建设哈尔滨城</strong></p>
-<p><strong>于2026/10/18从FU叛逃至泛东北经济同盟</strong></p>
-<p><strong>巅峰（）</strong></p>
-<p><strong>末期（）</strong></p>`
+      excerpt: "孙笑川一般的存在",
+      icon: "/article/icon/fish-text3.png",
+      updated: "2026-10-28",
+      reading: 5,
+      tags: ["老资历", "活跃玩家", "大恶霸"],
+      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:07+08:00", "action": "update", "title": "fish世家", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T21:13:57+08:00", "action": "update", "title": "fish世家", "topic": "people"}],
+      content: `<p><strong>服务器老资历，人见人爱，花见花开，热心善良，助人为乐，和蔼可亲，宽容大度，<del>无恶不作，邪恶至极，阴险狡诈，逼良为娼（？，大恶霸，大军阀，止小儿夜啼，孙笑川在世，屁股烫开花，多看一眼就会爆炸</del></strong></p>`
     },
     "alex": {
       title: "Alex",
@@ -845,17 +825,37 @@ window.HAPPYDAYS_WIKI = (function () {
 <p>装上mod后第一次进游戏会有提示</p>
 <p><del>剩下以后再补充</del></p>`
     },
-    "fish-text3": {
-      title: "fish世家",
-      emoji: "🐟",
+    "zzx": {
+      title: "zzx列传",
+      emoji: "📖",
       category: "people",
-      excerpt: "孙笑川一般的存在",
-      icon: "/article/icon/fish-text3.png",
-      updated: "2026-10-28",
-      reading: 5,
-      tags: ["老资历", "活跃玩家", "大恶霸"],
-      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:07+08:00", "action": "update", "title": "fish世家", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T21:13:57+08:00", "action": "update", "title": "fish世家", "topic": "people"}],
-      content: `<p><strong>服务器老资历，人见人爱，花见花开，热心善良，助人为乐，和蔼可亲，宽容大度，<del>无恶不作，邪恶至极，阴险狡诈，逼良为娼（？，大恶霸，大军阀，止小儿夜啼，孙笑川在世，屁股烫开花，多看一眼就会爆炸</del></strong></p>`
+      excerpt: "主要事迹：把Alex带进服务器（详见神人堂）连续发展了...",
+      icon: "/icon.png",
+      updated: "2026-10-25",
+      reading: 1,
+      tags: [],
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:09+08:00", "action": "update", "title": "zzx列传", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T23:57:17+08:00", "action": "update", "title": "zzx列传", "topic": "people"}],
+      content: `<h2>主要事迹：</h2>
+<ol class="steps"><li>把Alex带进服务器 （详见神人堂）</li><li>连续发展了哈尔滨长达2.5月(截至26/9/27)</li><li>在日内瓦承建了朝鲜，日本大使馆</li></ol>
+<h2>人物简介</h2>
+<p><strong>入服时间</strong></p>
+<p><strong>2026年7月12日</strong></p>
+<p><strong>担任职务</strong></p>
+<p><strong>哈尔滨城设计师，振兴东北的领导先锋</strong></p>
+<p><strong>人物评价</strong></p>
+<h2>东北局局长，服务器最帅之人，想建建筑但是没钱？群里@zzx投资—— zzx</h2>
+<p><strong>日内瓦全天候战略合作伙伴，日内瓦中期80%建筑由zzx建设——Matopiraphai</strong></p>
+<p><strong>蟠桃快乐——233</strong></p>
+<h2>人物履历</h2>
+<p><strong>早期（2026.7.12~2026.8.12）</strong></p>
+<p><strong>在全服多地流窜，购买材料，修路，在7.13日把Alex带进服务器（详见神人堂）</strong></p>
+<p><strong> （2026.8.13~2026.9.25）</strong></p>
+<p><strong>在全服务器到处接手建筑订单，拉到大量金额投资，赚得盆满钵满，还开了自己的地下商城</strong></p>
+<p><strong>中期（2026.9.25~至今）</strong></p>
+<p><strong>于2026/10/7从DPRK叛逃至FU，建设哈尔滨城</strong></p>
+<p><strong>于2026/10/18从FU叛逃至泛东北经济同盟</strong></p>
+<p><strong>巅峰（）</strong></p>
+<p><strong>末期（）</strong></p>`
     },
     "1": {
       title: "pingguojushi世家",
@@ -872,7 +872,7 @@ window.HAPPYDAYS_WIKI = (function () {
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "zzx", "alex", "666", "fish-text2", "fish-text3", "1"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "zzx", "1"
   ];
 
   return {
