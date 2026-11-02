@@ -53,7 +53,15 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器玩家与人物记录。",
       parentId: "history",
       order: 1,
-      docs: ["matopiraphai", "233-2233", "zzx", "1", "fish-text3"]
+      docs: ["matopiraphai", "233-2233", "zzx", "fish-text3", "1"]
+    },
+    {
+      id: "1",
+      name: "1",
+      description: "1",
+      parentId: "people",
+      order: 1,
+      docs: []
     },
     {
       id: "nations",
@@ -780,17 +788,17 @@ window.HAPPYDAYS_WIKI = (function () {
       signatures: [],
       content: `<p><img src="assets/image/gallery-2/1791127683915-48391af4-0c07-4bb6-b1a3-b051fbaef2d9.png" alt="图片" loading="lazy" decoding="async"></p>`
     },
-    "1": {
-      title: "pingguojushi世家",
-      emoji: "📄",
+    "fish-text3": {
+      title: "fish世家",
+      emoji: "🐟",
       category: "people",
-      excerpt: "棍木",
-      icon: "/icon.png",
-      updated: "2026-10-25",
+      excerpt: "孙笑川一般的存在",
+      icon: "/article/icon/fish-text3.png",
+      updated: "2026-10-28",
       reading: 5,
-      tags: [],
-      signatures: [{"author": "苹果居士", "at": "2026-10-25T21:32:05+08:00", "action": "create", "title": "pingguojushi", "topic": "人物志"}, {"author": "苹果居士", "at": "2026-10-25T21:32:35+08:00", "action": "update", "title": "pingguojushi", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:47+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:50+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:27:11+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}],
-      content: `<p>##介绍 上海金山镇长</p>`
+      tags: ["老资历", "活跃玩家", "大恶霸"],
+      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:07+08:00", "action": "update", "title": "fish世家", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-02T21:13:57+08:00", "action": "update", "title": "fish世家", "topic": "people"}],
+      content: `<p><strong>服务器老资历，人见人爱，花见花开，热心善良，助人为乐，和蔼可亲，宽容大度，<del>无恶不作，邪恶至极，阴险狡诈，逼良为娼（？，大恶霸，大军阀，止小儿夜啼，孙笑川在世，屁股烫开花，多看一眼就会爆炸</del></strong></p>`
     },
     "alex": {
       title: "Alex",
@@ -836,22 +844,22 @@ window.HAPPYDAYS_WIKI = (function () {
 <p>装上mod后第一次进游戏会有提示</p>
 <p><del>剩下以后再补充</del></p>`
     },
-    "fish-text3": {
-      title: "fish世家",
-      emoji: "🐟",
+    "1": {
+      title: "pingguojushi世家",
+      emoji: "📄",
       category: "people",
-      excerpt: "孙笑川一般的存在",
-      icon: "/article/icon/fish-text3.png",
-      updated: "2026-10-28",
+      excerpt: "棍木",
+      icon: "/icon.png",
+      updated: "2026-10-25",
       reading: 5,
-      tags: ["老资历", "活跃玩家", "大恶霸"],
-      signatures: [{"author": "fish", "at": "2026-10-28T23:49:26+08:00", "action": "create", "title": "fish", "topic": "人物志"}, {"author": "fish", "at": "2026-10-28T23:51:14+08:00", "action": "update", "title": "fish", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:07+08:00", "action": "update", "title": "fish世家", "topic": "人物志"}],
-      content: `<p><strong>服务器老资历，人见人爱，花见花开，热心善良，助人为乐，和蔼可亲，宽容大度，<del>无恶不作，邪恶至极，阴险狡诈，逼良为娼（？，大恶霸，大军阀，止小儿夜啼，孙笑川在世，屁股烫开花，多看一眼就会爆炸</del></strong></p>`
+      tags: [],
+      signatures: [{"author": "苹果居士", "at": "2026-10-25T21:32:05+08:00", "action": "create", "title": "pingguojushi", "topic": "人物志"}, {"author": "苹果居士", "at": "2026-10-25T21:32:35+08:00", "action": "update", "title": "pingguojushi", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:47+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:50+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:27:11+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}],
+      content: `<p>##介绍 上海金山镇长</p>`
     }
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "zzx", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "1", "alex", "666", "fish-text2", "fish-text3"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "zzx", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1"
   ];
 
   return {
