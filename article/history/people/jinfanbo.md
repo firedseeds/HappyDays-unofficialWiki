@@ -6,7 +6,7 @@ topic_id: "people"
 updated: "2026-11-02"
 reading_time: 240
 emoji: "👑"
-order: 31
+order: 20
 slug: "jinfanbo"
 source: "/wiki/#/doc/jinfanbo"
 tags:

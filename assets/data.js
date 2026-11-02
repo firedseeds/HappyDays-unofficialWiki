@@ -53,7 +53,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器玩家与人物记录。",
       parentId: "history",
       order: 1,
-      docs: ["matopiraphai", "233-2233", "zzx", "jinfanbo", "fish-text3", "1"]
+      docs: ["matopiraphai", "233-2233", "jinfanbo", "zzx", "fish-text3", "1"]
     },
     {
       id: "nations",
@@ -581,37 +581,26 @@ window.HAPPYDAYS_WIKI = (function () {
 <p><strong>巅峰（）</strong></p>
 <p><strong>末期（）</strong></p>`
     },
-    "zzx": {
-      title: "zzx列传",
-      emoji: "📖",
+    "jinfanbo": {
+      title: "JINFANBO本纪",
+      emoji: "👑",
       category: "people",
-      excerpt: "主要事迹：把Alex带进服务器（详见神人堂）连续发展了...",
+      excerpt: "JINFANBO本纪",
       icon: "/icon.png",
-      updated: "2026-10-25",
-      reading: 1,
+      updated: "2026-11-02",
+      reading: 240,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:09+08:00", "action": "update", "title": "zzx列传", "topic": "人物志"}],
-      content: `<h2>主要事迹：</h2>
-<ol class="steps"><li>把Alex带进服务器 （详见神人堂）</li><li>连续发展了哈尔滨长达2.5月(截至26/9/27)</li><li>在日内瓦承建了朝鲜，日本大使馆</li></ol>
-<h2>人物简介</h2>
-<p><strong>入服时间</strong></p>
-<p><strong>2026年7月12日</strong></p>
-<p><strong>担任职务</strong></p>
-<p><strong>哈尔滨城设计师，振兴东北的领导先锋</strong></p>
-<p><strong>人物评价</strong></p>
-<h2>东北局局长，服务器最帅之人，想建建筑但是没钱？群里@zzx投资—— zzx</h2>
-<p><strong>日内瓦全天候战略合作伙伴，日内瓦中期80%建筑由zzx建设——Matopiraphai</strong></p>
-<p><strong>蟠桃快乐——233</strong></p>
+      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:56:55+08:00", "action": "move", "title": "JINFANBO本纪", "topic": "人物志", "fromTopic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:57:08+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:09+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:12+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}],
+      content: `<h2>人物简介：</h2>
+<p><strong>入服时间：</strong></p>
+<p><strong>2026年7月5日</strong></p>
+<p><strong>担任职务：</strong></p>
+<p><strong>前联合行省主席，现泛东北经济联盟宣传部部长 (</strong></p>
+<h2>人物评价</h2>
+<p><strong>原联合行省主席，开创了全服首个人口大国，开辟了东北荒地，为东北建设打下基业,真是及备殂没，事无巨细，JIN皆专之。於是外连FU，内平东南，立法施度，整理戎旅，工械技巧，物究其极，科教严明，赏罚必信，无恶不惩，无善不显，至於吏不容奸，人怀自厉，道不拾遗，强不侵弱，风化肃然也。——zzx</strong></p>
 <h2>人物履历</h2>
-<p><strong>早期（2026.7.12~2026.8.12）</strong></p>
-<p><strong>在全服多地流窜，购买材料，修路，在7.13日把Alex带进服务器（详见神人堂）</strong></p>
-<p><strong> （2026.8.13~2026.9.25）</strong></p>
-<p><strong>在全服务器到处接手建筑订单，拉到大量金额投资，赚得盆满钵满，还开了自己的地下商城</strong></p>
-<p><strong>中期（2026.9.25~至今）</strong></p>
-<p><strong>于2026/10/7从DPRK叛逃至FU，建设哈尔滨城</strong></p>
-<p><strong>于2026/10/18从FU叛逃至泛东北经济同盟</strong></p>
-<p><strong>巅峰（）</strong></p>
-<p><strong>末期（）</strong></p>`
+<p>进服时建了一所地下农科院，结识中山，张家界，zzx，共同在长白山建了茶楼、酒馆、公寓、体育馆、游泳馆和长白山博物馆，后和xiaomu建立了联合行省（UP）,在不出二月内超过二十人加入，后因有人退出，从而在白山演讲，那也曾经是服务器中最热闹的时候</p>
+<p>往日兮.........不复回，曾日名震欧亚的白山皇帝，虽有没落之时，但其城亦是“关东第一山”之所在——zzx</p>`
     },
     "rhodes-island": {
       title: "罗德岛",
@@ -780,26 +769,37 @@ window.HAPPYDAYS_WIKI = (function () {
       signatures: [],
       content: `<p><img src="assets/image/gallery-2/1791127683915-48391af4-0c07-4bb6-b1a3-b051fbaef2d9.png" alt="图片" loading="lazy" decoding="async"></p>`
     },
-    "jinfanbo": {
-      title: "JINFANBO本纪",
-      emoji: "👑",
+    "zzx": {
+      title: "zzx列传",
+      emoji: "📖",
       category: "people",
-      excerpt: "JINFANBO本纪",
+      excerpt: "主要事迹：把Alex带进服务器（详见神人堂）连续发展了...",
       icon: "/icon.png",
-      updated: "2026-11-02",
-      reading: 240,
+      updated: "2026-10-25",
+      reading: 1,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:56:55+08:00", "action": "move", "title": "JINFANBO本纪", "topic": "人物志", "fromTopic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:57:08+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:09+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}],
-      content: `<h2>人物简介：</h2>
-<p><strong>入服时间：</strong></p>
-<p><strong>2026年7月5日</strong></p>
-<p><strong>担任职务：</strong></p>
-<p><strong>前联合行省主席，现泛东北经济联盟宣传部部长 (</strong></p>
-<h2>人物评价</h2>
-<p><strong>原联合行省主席，开创了全服首个人口大国，开辟了东北荒地，为东北建设打下基业,真是及备殂没，事无巨细，JIN皆专之。於是外连FU，内平东南，立法施度，整理戎旅，工械技巧，物究其极，科教严明，赏罚必信，无恶不惩，无善不显，至於吏不容奸，人怀自厉，道不拾遗，强不侵弱，风化肃然也。——zzx</strong></p>
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:25:53+08:00", "action": "update", "title": "zzx", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:09+08:00", "action": "update", "title": "zzx列传", "topic": "人物志"}],
+      content: `<h2>主要事迹：</h2>
+<ol class="steps"><li>把Alex带进服务器 （详见神人堂）</li><li>连续发展了哈尔滨长达2.5月(截至26/9/27)</li><li>在日内瓦承建了朝鲜，日本大使馆</li></ol>
+<h2>人物简介</h2>
+<p><strong>入服时间</strong></p>
+<p><strong>2026年7月12日</strong></p>
+<p><strong>担任职务</strong></p>
+<p><strong>哈尔滨城设计师，振兴东北的领导先锋</strong></p>
+<p><strong>人物评价</strong></p>
+<h2>东北局局长，服务器最帅之人，想建建筑但是没钱？群里@zzx投资—— zzx</h2>
+<p><strong>日内瓦全天候战略合作伙伴，日内瓦中期80%建筑由zzx建设——Matopiraphai</strong></p>
+<p><strong>蟠桃快乐——233</strong></p>
 <h2>人物履历</h2>
-<p>进服时建了一所地下农科院，结识中山，张家界，zzx，共同在长白山建了茶楼、酒馆、公寓、体育馆、游泳馆和长白山博物馆，后和xiaomu建立了联合行省（UP）,在不出二月内超过二十人加入，后因有人退出，从而在白山演讲，那也曾经是服务器中最热闹的时候</p>
-<p>往日兮.........不复回，曾日名震欧亚的白山皇帝，虽有没落之时，但其城亦是“关东第一山”之所在——zzx</p>`
+<p><strong>早期（2026.7.12~2026.8.12）</strong></p>
+<p><strong>在全服多地流窜，购买材料，修路，在7.13日把Alex带进服务器（详见神人堂）</strong></p>
+<p><strong> （2026.8.13~2026.9.25）</strong></p>
+<p><strong>在全服务器到处接手建筑订单，拉到大量金额投资，赚得盆满钵满，还开了自己的地下商城</strong></p>
+<p><strong>中期（2026.9.25~至今）</strong></p>
+<p><strong>于2026/10/7从DPRK叛逃至FU，建设哈尔滨城</strong></p>
+<p><strong>于2026/10/18从FU叛逃至泛东北经济同盟</strong></p>
+<p><strong>巅峰（）</strong></p>
+<p><strong>末期（）</strong></p>`
     },
     "alex": {
       title: "Alex",
@@ -872,7 +872,7 @@ window.HAPPYDAYS_WIKI = (function () {
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "zzx", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "jinfanbo", "alex", "666", "fish-text2", "fish-text3", "1"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "zzx", "alex", "666", "fish-text2", "fish-text3", "1"
   ];
 
   return {
