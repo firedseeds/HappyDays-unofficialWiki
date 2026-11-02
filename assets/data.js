@@ -61,7 +61,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器中的国家、城镇与编年记录。",
       parentId: "history",
       order: 2,
-      docs: ["rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle"]
+      docs: ["rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "up"]
     },
     {
       id: "godman",
@@ -868,11 +868,30 @@ window.HAPPYDAYS_WIKI = (function () {
 <p><strong>于2026/10/18从FU叛逃至泛东北经济同盟</strong></p>
 <p><strong>巅峰（）</strong></p>
 <p><strong>末期（）</strong></p>`
+    },
+    "up": {
+      title: "联合行省（UP）",
+      emoji: "🚩",
+      category: "nations",
+      excerpt: "联合行省",
+      icon: "/icon.png",
+      updated: "2026-11-03",
+      reading: 240,
+      tags: [],
+      signatures: [{"author": "zzx", "at": "2026-11-03T00:34:50+08:00", "action": "create", "title": "联合行省（UP）", "topic": "国家/城镇"}],
+      content: `<p>此国家现已解散，目前前主席JINFANBO已加入泛东北经济联盟</p>
+<p><strong>此国家为JINFANBO在白山与xiaomu建立，各个下辖城市欣欣向荣，为原HAPPYDAYS第一大国</strong></p>
+<p>主席:JINFANBO</p>
+<p>总理:zyp_Daidy,xiaomu_u</p>
+<p>国家发展：以长春和张家界为中心，发展以农业为主</p>
+<p>国家成就：</p>
+<ol class="steps"><li>在不到两个月内国家突破20城镇，一度登顶排行榜</li><li>全服唯一一个举办过活动的体育馆&amp;&amp;游泳馆</li><li>全服经济发展较为良好，人口相对集中，发展较为迅速</li><li>东北唯一的博物馆</li></ol>
+<p><strong>不幸的是，联合行省在各方压力下于26年11月1日，由JINFANBO宣布解散，正式落下帷幕</strong></p>`
     }
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1", "zzx"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1", "zzx", "up"
   ];
 
   return {

@@ -9,8 +9,8 @@
     "domain": "114.55.99.2:8000"
   },
   "topicCount": 9,
-  "articleCount": 35,
-  "lastUpdated": "2026-11-02",
+  "articleCount": 36,
+  "lastUpdated": "2026-11-03",
   "topics": [
     {
       "id": "intro",
@@ -80,7 +80,7 @@
       "parentId": "history",
       "order": 2,
       "emoji": "🏙️",
-      "articleCount": 5
+      "articleCount": 6
     },
     {
       "id": "godman",
@@ -568,6 +568,19 @@
       "tags": [],
       "file": "history/people/zzx.md",
       "source": "/wiki/#/doc/zzx"
+    },
+    {
+      "slug": "up",
+      "order": 37,
+      "topic": "nations",
+      "title": "联合行省（UP）",
+      "description": "联合行省",
+      "emoji": "🚩",
+      "updated": "2026-11-03",
+      "readingTime": 240,
+      "tags": [],
+      "file": "history/nations/up.md",
+      "source": "/wiki/#/doc/up"
     }
   ]
 }
