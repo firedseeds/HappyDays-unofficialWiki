@@ -802,6 +802,15 @@
         "title": "联合行省（UP）",
         "topic": "国家/城镇"
       }
+    ],
+    "freedom-union": [
+      {
+        "author": "zzx",
+        "at": "2026-11-04T01:49:14+08:00",
+        "action": "update",
+        "title": "自由联邦共同体 Freedom Union",
+        "topic": "国家/城镇"
+      }
     ]
   }
 }
