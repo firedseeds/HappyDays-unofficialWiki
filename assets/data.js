@@ -571,14 +571,14 @@ window.HAPPYDAYS_WIKI = (function () {
     },
     "233-2233": {
       title: "233&2233本纪",
-      emoji: "📖",
+      emoji: "👑",
       category: "people",
       excerpt: "人物简介入服时间2233：2026年5月19日 233...",
       icon: "/icon.png",
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-01T23:26:16+08:00", "action": "update", "title": "233&2233本纪", "topic": "人物志"}],
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:26:16+08:00", "action": "update", "title": "233&2233本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-03T21:39:07+08:00", "action": "update", "title": "233&2233本纪", "topic": "人物志"}],
       content: `<h2>人物简介</h2>
 <p><strong>入服时间</strong></p>
 <p><strong>2233：2026年5月19日</strong></p>
