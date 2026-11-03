@@ -842,14 +842,14 @@ window.HAPPYDAYS_WIKI = (function () {
     },
     "1": {
       title: "pingguojushi世家",
-      emoji: "📄",
+      emoji: "🍎",
       category: "people",
       excerpt: "棍木",
       icon: "/icon.png",
       updated: "2026-10-25",
       reading: 5,
       tags: [],
-      signatures: [{"author": "苹果居士", "at": "2026-10-25T21:32:05+08:00", "action": "create", "title": "pingguojushi", "topic": "人物志"}, {"author": "苹果居士", "at": "2026-10-25T21:32:35+08:00", "action": "update", "title": "pingguojushi", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:47+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:50+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:27:11+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}],
+      signatures: [{"author": "苹果居士", "at": "2026-10-25T21:32:05+08:00", "action": "create", "title": "pingguojushi", "topic": "人物志"}, {"author": "苹果居士", "at": "2026-10-25T21:32:35+08:00", "action": "update", "title": "pingguojushi", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:25:47+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:26:50+08:00", "action": "update", "title": "pingguojushi本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-01T23:27:11+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-03T21:39:28+08:00", "action": "update", "title": "pingguojushi世家", "topic": "人物志"}],
       content: `<p>##介绍 上海金山镇长</p>`
     },
     "zzx": {
