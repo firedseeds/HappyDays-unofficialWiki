@@ -74,10 +74,24 @@
     },
     {
       "text": "冷知识：up是第一个辉煌过然后覆灭的国家。——JINFANBO",
-      "weight": 5,
+      "weight": 2,
       "runs": [
         {
           "text": "冷知识：up是第一个辉煌过然后覆灭的国家。——JINFANBO",
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "strike": false,
+          "color": ""
+        }
+      ]
+    },
+    {
+      "text": "https://space.bilibili.com/3546732942067845——JINFANBO",
+      "weight": 2,
+      "runs": [
+        {
+          "text": "https://space.bilibili.com/3546732942067845——JINFANBO",
           "bold": false,
           "italic": false,
           "underline": false,
