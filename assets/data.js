@@ -548,14 +548,14 @@ window.HAPPYDAYS_WIKI = (function () {
     },
     "matopiraphai": {
       title: "Matopiraphai本纪",
-      emoji: "📖",
+      emoji: "👑",
       category: "people",
       excerpt: "人物简介：入服时间：2026年8月8日担任职务：",
       icon: "/icon.png",
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-01T23:26:26+08:00", "action": "update", "title": "Matopiraphai本纪", "topic": "人物志"}],
+      signatures: [{"author": "zzx", "at": "2026-11-01T23:26:26+08:00", "action": "update", "title": "Matopiraphai本纪", "topic": "人物志"}, {"author": "zzx", "at": "2026-11-03T21:39:15+08:00", "action": "update", "title": "Matopiraphai本纪", "topic": "人物志"}],
       content: `<h2>人物简介：</h2>
 <p><strong>入服时间：</strong></p>
 <p><strong>2026年8月8日</strong></p>

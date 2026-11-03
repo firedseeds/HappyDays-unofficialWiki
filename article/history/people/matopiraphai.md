@@ -5,7 +5,7 @@ topic: "人物志"
 topic_id: "people"
 updated: "2026-10-25"
 reading_time: 1
-emoji: "📖"
+emoji: "👑"
 order: 18
 slug: "matopiraphai"
 source: "/wiki/#/doc/matopiraphai"
