@@ -893,14 +893,15 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-11-03",
       reading: 240,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-03T00:34:50+08:00", "action": "create", "title": "联合行省（UP）", "topic": "国家/城镇"}, {"author": "zzx", "at": "2026-11-03T00:34:53+08:00", "action": "update", "title": "联合行省（UP）", "topic": "国家/城镇"}, {"author": "JINFANBO", "at": "2026-11-03T20:36:16+08:00", "action": "update", "title": "联合行省（UP）", "topic": "国家/城镇"}],
+      signatures: [{"author": "zzx", "at": "2026-11-03T00:34:50+08:00", "action": "create", "title": "联合行省（UP）", "topic": "国家/城镇"}, {"author": "zzx", "at": "2026-11-03T00:34:53+08:00", "action": "update", "title": "联合行省（UP）", "topic": "国家/城镇"}, {"author": "JINFANBO", "at": "2026-11-03T20:36:16+08:00", "action": "update", "title": "联合行省（UP）", "topic": "国家/城镇"}, {"author": "zzx", "at": "2026-11-03T21:18:41+08:00", "action": "update", "title": "联合行省（UP）", "topic": "国家/城镇"}],
       content: `<p>此国家现已解散，目前前主席JINFANBO已加入泛东北经济联盟</p>
 <p><strong>此国家为JINFANBO在白山与xiaomu建立，各个下辖城市欣欣向荣，为原HAPPYDAYS第一大国</strong></p>
+<p>成立时间：公元2026年8月15日</p>
 <p>主席:JINFANBO</p>
 <p>总理:zyp_Daidy,xiaomu_u</p>
 <p>国家发展：以长春和张家界为中心，发展以农业为主</p>
 <p>国家成就：</p>
-<ol class="steps"><li>在不到两个月内国家突破20城镇，一度登顶排行榜</li><li>全服唯一一个举办过活动的体育馆&amp;&amp;游泳馆</li><li>全服经济发展较为良好，人口相对集中，发展较为迅速</li><li>东北唯一的博物馆</li></ol>
+<ol class="steps"><li>在不到两个月内国家成员突破20，一度登顶排行榜</li><li>全服唯一一个举办过活动的体育馆&amp;&amp;游泳馆</li><li>全服经济发展较为良好，人口相对集中，发展较为迅速</li><li>建了东北唯一的博物馆</li></ol>
 <p><strong>不幸的是，联合行省在各方压力下于26年11月1日，由JINFANBO宣布解散，正式落下帷幕</strong></p>
 <p><strong><em>一个王朝，无论怎地，不会长久，兴衰荣辱，必在史中，释然也好，心存也罢。——JINFANBO</em></strong></p>`
     }
