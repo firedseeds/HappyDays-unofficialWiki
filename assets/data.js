@@ -912,8 +912,8 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-11-03",
       reading: 5,
       tags: [],
-      signatures: [{"author": "JINFANBO", "at": "2026-11-03T20:26:47+08:00", "action": "create", "title": "JINFANBO自述", "topic": "妙妙图片集"}],
-      content: `<p>正在尝试导入图片。。。不用管这个历史。</p>`
+      signatures: [{"author": "JINFANBO", "at": "2026-11-03T20:26:47+08:00", "action": "create", "title": "JINFANBO自述", "topic": "妙妙图片集"}, {"author": "JINFANBO", "at": "2026-11-03T20:28:03+08:00", "action": "update", "title": "JINFANBO自述", "topic": "妙妙图片集"}],
+      content: `<p>。。。</p>`
     }
   };
 
