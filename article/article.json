@@ -9,7 +9,7 @@
     "domain": "114.55.99.2:8000"
   },
   "topicCount": 9,
-  "articleCount": 36,
+  "articleCount": 37,
   "lastUpdated": "2026-11-03",
   "topics": [
     {
@@ -98,7 +98,7 @@
       "order": 6,
       "description": "服务器截图与图片记录。",
       "emoji": "🖼️",
-      "articleCount": 2,
+      "articleCount": 3,
       "parentId": null
     }
   ],
@@ -581,6 +581,19 @@
       "tags": [],
       "file": "history/nations/up.md",
       "source": "/wiki/#/doc/up"
+    },
+    {
+      "slug": "111",
+      "order": 38,
+      "topic": "gallery",
+      "title": "JINFANBO自述",
+      "description": "我手写的，概括一下我流离失所的玩家生涯吧。",
+      "emoji": "📄",
+      "updated": "2026-11-03",
+      "readingTime": 5,
+      "tags": [],
+      "file": "gallery/111.md",
+      "source": "/wiki/#/doc/111"
     }
   ]
 }

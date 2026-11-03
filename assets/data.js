@@ -77,7 +77,7 @@ window.HAPPYDAYS_WIKI = (function () {
       description: "服务器截图与图片记录。",
       parentId: null,
       order: 6,
-      docs: ["gallery-1", "gallery-2"]
+      docs: ["gallery-1", "gallery-2", "111"]
     }
   ];
 
@@ -902,11 +902,23 @@ window.HAPPYDAYS_WIKI = (function () {
 <p>国家成就：</p>
 <ol class="steps"><li>在不到两个月内国家突破20城镇，一度登顶排行榜</li><li>全服唯一一个举办过活动的体育馆&amp;&amp;游泳馆</li><li>全服经济发展较为良好，人口相对集中，发展较为迅速</li><li>东北唯一的博物馆</li></ol>
 <p><strong>不幸的是，联合行省在各方压力下于26年11月1日，由JINFANBO宣布解散，正式落下帷幕</strong></p>`
+    },
+    "111": {
+      title: "JINFANBO自述",
+      emoji: "📄",
+      category: "gallery",
+      excerpt: "我手写的，概括一下我流离失所的玩家生涯吧。",
+      icon: "/icon.png",
+      updated: "2026-11-03",
+      reading: 5,
+      tags: [],
+      signatures: [{"author": "JINFANBO", "at": "2026-11-03T20:26:47+08:00", "action": "create", "title": "JINFANBO自述", "topic": "妙妙图片集"}],
+      content: `<p>正在尝试导入图片。。。不用管这个历史。</p>`
     }
   };
 
   var allIds = [
-    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1", "zzx", "up"
+    "intro", "before-joining", "first-arrival", "shop-plugin", "build-town", "about-nations", "first-money", "resource-world-nether", "senluo-kitchen", "senluo-tavern", "money-making-guide", "lottery", "immersive-vehicles", "town-resources", "cheating-response", "behavior-chat", "world-map", "matopiraphai", "233-2233", "jinfanbo", "rhodes-island", "freedom-union", "dprk", "northeast-economic-alliance", "harbin-chronicle", "ok", "qwertyuiop", "gallery-1", "gallery-2", "fish-text3", "alex", "666", "fish-text2", "1", "zzx", "up", "111"
   ];
 
   return {
