@@ -908,7 +908,7 @@ window.HAPPYDAYS_WIKI = (function () {
       emoji: "📄",
       category: "gallery",
       excerpt: "我手写的，概括一下我流离失所的玩家生涯吧。",
-      icon: "/icon.png",
+      icon: "/article/icon/111.jpg",
       updated: "2026-11-03",
       reading: 5,
       tags: [],
