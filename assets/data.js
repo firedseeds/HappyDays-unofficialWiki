@@ -605,7 +605,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-11-02",
       reading: 240,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:56:55+08:00", "action": "move", "title": "JINFANBO本纪", "topic": "人物志", "fromTopic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:57:08+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:09+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:12+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}],
+      signatures: [{"author": "zzx", "at": "2026-11-02T23:56:46+08:00", "action": "create", "title": "JINFANBO本纪", "topic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:56:55+08:00", "action": "move", "title": "JINFANBO本纪", "topic": "人物志", "fromTopic": "简介"}, {"author": "zzx", "at": "2026-11-02T23:57:08+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:09+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "zzx", "at": "2026-11-02T23:57:12+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "people"}, {"author": "JINFANBO", "at": "2026-11-03T20:23:02+08:00", "action": "update", "title": "JINFANBO本纪", "topic": "人物志"}],
       content: `<h2>人物简介：</h2>
 <p><strong>入服时间：</strong></p>
 <p><strong>2026年7月5日</strong></p>
@@ -614,7 +614,7 @@ window.HAPPYDAYS_WIKI = (function () {
 <h2>人物评价</h2>
 <p><strong>原联合行省主席，开创了全服首个人口大国，开辟了东北荒地，为东北建设打下基业,真是及备殂没，事无巨细，JIN皆专之。於是外连FU，内平东南，立法施度，整理戎旅，工械技巧，物究其极，科教严明，赏罚必信，无恶不惩，无善不显，至於吏不容奸，人怀自厉，道不拾遗，强不侵弱，风化肃然也。——zzx</strong></p>
 <h2>人物履历</h2>
-<p>进服时建了一所地下农科院，结识中山，张家界，zzx，共同在长白山建了茶楼、酒馆、公寓、体育馆、游泳馆和长白山博物馆，后和xiaomu建立了联合行省（UP）,在不出二月内超过二十人加入，后因有人退出，从而在白山演讲，那也曾经是服务器中最热闹的时候</p>
+<p>进服时建了一所地下农科院，结识中山，张家界，zzx，共同在长白山建了茶楼、酒馆、酒店、酒楼、体育馆、游泳馆和长白山博物馆，后和xiaomu建立了联合行省（UP）,在不出二月内超过二十人加入，后因有人退出，从而在白山演讲，那也曾经是服务器中最热闹的时候</p>
 <p>往日兮.........不复回，曾日名震欧亚的白山皇帝，虽有没落之时，但其城亦是“关东第一山”之所在——zzx</p>`
     },
     "rhodes-island": {
