@@ -349,7 +349,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [{"author": "smillfox", "at": "2026-10-27T22:30:38+08:00", "action": "update", "title": "森罗物语：酒馆", "topic": "进阶教程"}, {"author": "zzx", "at": "2026-10-30T21:23:48+08:00", "action": "update", "title": "森罗物语：酒馆", "topic": "进阶教程"}, {"author": "JINFANBO", "at": "2026-11-03T12:02:23+08:00", "action": "update", "title": "森罗物语：酒馆", "topic": "进阶教程"}],
+      signatures: [{"author": "smillfox", "at": "2026-10-27T22:30:38+08:00", "action": "update", "title": "森罗物语：酒馆", "topic": "进阶教程"}, {"author": "zzx", "at": "2026-10-30T21:23:48+08:00", "action": "update", "title": "森罗物语：酒馆", "topic": "进阶教程"}, {"author": "JINFANBO", "at": "2026-11-03T12:02:23+08:00", "action": "update", "title": "森罗物语：酒馆", "topic": "进阶教程"}, {"author": "JINFANBO", "at": "2026-11-03T12:02:25+08:00", "action": "update", "title": "森罗物语：酒馆", "topic": "进阶教程"}],
       content: `<h2>引言</h2>
 <p>不列不列不列！</p>
 <h2>一、原料的获取及储存</h2>
