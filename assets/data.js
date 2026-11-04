@@ -183,7 +183,7 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 3,
       tags: [],
-      signatures: [{"author": "smillfox", "at": "2026-10-29T21:05:13+08:00", "action": "update", "title": "商店插件", "topic": "新手教程"}],
+      signatures: [{"author": "smillfox", "at": "2026-10-29T21:05:13+08:00", "action": "update", "title": "商店插件", "topic": "新手教程"}, {"author": "LZnofu", "at": "2026-11-04T22:11:45+08:00", "action": "update", "title": "商店插件", "topic": "新手教程"}],
       content: `<p>本服务器使用QuickShop插件，如何使用请看下文：</p>
 <h2>认识商店</h2>
 <h3>商店由什么组成?</h3>
@@ -201,7 +201,6 @@ window.HAPPYDAYS_WIKI = (function () {
 <p>附图片：</p>
 <p><img src="assets/image/shop-plugin/1791685253432-31a89a9d-3435-4d36-ba14-7ca91e0d21f5.png" alt="图片" loading="lazy" decoding="async"></p>
 <p><img src="assets/image/shop-plugin/1791685270659-4d84db2c-2a8b-48db-b00d-01135a6a5d2a.png" alt="图片" loading="lazy" decoding="async"></p>
-<p><img src="assets/image/shop-plugin/1791650194339-5f0c5587-87a3-411c-ba8c-b1ef869acb63.png" alt="图片" loading="lazy" decoding="async"></p>
 <p><strong>注:模组物品只会显示其命名空间，如图二</strong></p>
 <h2>店主操作</h2>
 <h3>设置商店</h3>
@@ -238,6 +237,7 @@ window.HAPPYDAYS_WIKI = (function () {
 <p>恭喜你失败了！</p>
 <h2>须知</h2>
 <ol class="steps"><li>买东西时一定要看物品预览，当心被骗！</li></ol>
+<p><img src="assets/image/shop-plugin/1791650194339-5f0c5587-87a3-411c-ba8c-b1ef869acb63.png" alt="图片" loading="lazy" decoding="async"></p>
 <p>zzx买的”钻石"（）——zzx</p>`
     },
     "build-town": {

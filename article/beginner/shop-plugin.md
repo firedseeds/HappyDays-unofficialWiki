@@ -48,7 +48,7 @@ tags:
 
 ![图片](../../assets/image/shop-plugin/1791685270659-4d84db2c-2a8b-48db-b00d-01135a6a5d2a.png)
 
-![图片](../../assets/image/shop-plugin/1791650194339-5f0c5587-87a3-411c-ba8c-b1ef869acb63.png)
+
 
 **注:模组物品只会显示其命名空间，如图二**
 
@@ -117,5 +117,7 @@ tags:
 ## 须知
 
 1. 买东西时一定要看物品预览，当心被骗！
+
+![图片](../../assets/image/shop-plugin/1791650194339-5f0c5587-87a3-411c-ba8c-b1ef869acb63.png)
 
 zzx买的”钻石"（）——zzx
