@@ -267,10 +267,10 @@
       "order": 13,
       "topic": "advanced",
       "title": "沉浸车辆",
-      "description": "当然，服务器是有载具的，不能合成",
+      "description": "在本服，汽车是一种交通方式。",
       "emoji": "🧭",
       "updated": "2026-10-25",
-      "readingTime": 1,
+      "readingTime": 2,
       "tags": [],
       "file": "advanced/immersive-vehicles.md",
       "source": "/wiki/#/doc/immersive-vehicles"
