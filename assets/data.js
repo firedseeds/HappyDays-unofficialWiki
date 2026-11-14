@@ -269,8 +269,13 @@ window.HAPPYDAYS_WIKI = (function () {
       updated: "2026-10-25",
       reading: 1,
       tags: [],
-      signatures: [{"author": "zzx", "at": "2026-10-25T03:28:29+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:29:06+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:30:06+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:32:31+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:32:37+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:32:42+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx_1145", "at": "2026-10-25T03:34:54+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "qwertyuiop", "at": "2026-10-25T04:34:32+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "↓绝版人物——233", "at": "2026-10-25T20:31:24+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "233", "at": "2026-10-25T21:18:59+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "smillfox", "at": "2026-10-27T22:11:03+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "JINFANBO", "at": "2026-11-02T21:00:46+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}],
-      content: `<p>/n new [国家名]建立新的国家 （你得先在城镇银行中存1000...吧）</p>`
+      signatures: [{"author": "zzx", "at": "2026-10-25T03:28:29+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:29:06+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:30:06+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:32:31+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:32:37+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx", "at": "2026-10-25T03:32:42+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "zzx_1145", "at": "2026-10-25T03:34:54+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "qwertyuiop", "at": "2026-10-25T04:34:32+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "↓绝版人物——233", "at": "2026-10-25T20:31:24+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "233", "at": "2026-10-25T21:18:59+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "smillfox", "at": "2026-10-27T22:11:03+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "JINFANBO", "at": "2026-11-02T21:00:46+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}, {"author": "LZnofu", "at": "2026-11-14T20:10:01+08:00", "action": "update", "title": "关于国家", "topic": "新手教程"}],
+      content: `<p><code>/n new [国家名]</code> 建立新的国家 （你得先在<strong>城镇银行</strong>中存1000...吧）</p>
+<p><code>/n deposit [金额]</code> 向<strong>你国家</strong>的银行存钱</p>
+<p><code>/n leave</code> 离开你的国家<strong>（希望你永远不会使用）</strong></p>
+<h3>国王指令</h3>
+<p><code>/n set name [国家名]</code> 更改国家名<strong>（免费）</strong></p>
+<p><code>/n withdraw [金额]</code> 向你国家的银行取钱</p>`
     },
     "first-money": {
       title: "第一桶金",
@@ -290,7 +295,7 @@ window.HAPPYDAYS_WIKI = (function () {
       emoji: "🧭",
       category: "advanced",
       excerpt: "暂无摘要",
-      icon: "/article/icon/resource-world-nether.jpg",
+      icon: "/article/icon/resource-world-nether.png",
       updated: "2026-10-25",
       reading: 1,
       tags: [],
@@ -307,7 +312,7 @@ window.HAPPYDAYS_WIKI = (function () {
       emoji: "🧭",
       category: "advanced",
       excerpt: "做饭是一门高深的艺术一",
-      icon: "/article/icon/senluo-kitchen.jpg",
+      icon: "/article/icon/senluo-kitchen.png",
       updated: "2026-10-25",
       reading: 1,
       tags: [],
